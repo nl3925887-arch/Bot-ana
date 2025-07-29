@@ -77,7 +77,7 @@ async def nick(ctx):
 # إبقاء البوت شغال دائمًا
 while True:
     try:
-        bot.run("MTM5OTc4NDA2NTcxMTg3MDEwMg.GAUZhb.vGC9vpqj-jd-32BPHZqpH0su0BrSN53fJnvAvg")  # ← ضع التوكن هنا
+        bot.run("MTM5OTc4NDA2NTcxMTg3MDEwMg.G0N5QK.SRHBRNFnZmJL08WCV4sWtqcVkAVKI6qbGiGQZc")  # ← ضع التوكن هنا
     except Exception as e:
         print(f"🔴 Error: {e}")
         asyncio.sleep(5)
